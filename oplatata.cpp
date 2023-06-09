@@ -58,4 +58,4 @@ int main()
 YES
 NO
 NO
-YES
+
